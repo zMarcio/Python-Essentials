@@ -1,0 +1,1 @@
+print('Hello world. "shine bright like a diamond" by Rihanna.')
